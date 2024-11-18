@@ -5,8 +5,12 @@ def number_lines(input_stream):
         print(f"{i}\t{line.rstrip()}")
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        with open(sys.argv[1], 'r') as file:
-            number_lines(file)
-    else:
-        number_lines(sys.stdin)
+    try:
+        if len(sys.argv) > 1:
+            filename = sys.argv[1]
+            with open(filename, 'r') as file:
+                number_lines(file)
+        else:
+            number_lines(sys.stdin)
+    except FileNotFoundError:
+        print(f"nl: {sys.argv[1]}: No such file or directory", file=sys.stderr)
