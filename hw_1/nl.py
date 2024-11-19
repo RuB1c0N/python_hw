@@ -2,7 +2,7 @@ import sys
 
 def number_lines(input_stream):
     for i, line in enumerate(input_stream, start=1):
-        print(f"{i}\t{line.rstrip()}")
+        print(f"{i:6}  {line.rstrip()}")
 
 if __name__ == "__main__":
     try:
