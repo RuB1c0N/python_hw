@@ -1,0 +1,96 @@
+2024-12-10 23:04:44,487 - INFO - Запуск integrate с n_jobs=1, executor_type=thread
+2024-12-10 23:04:44,979 - INFO - THREAD | n_jobs=1: результат=1.0000000785399288, время=0.49 сек
+2024-12-10 23:04:44,979 - INFO - Запуск integrate с n_jobs=2, executor_type=thread
+2024-12-10 23:04:45,476 - INFO - THREAD | n_jobs=2: результат=1.0000000785398064, время=0.50 сек
+2024-12-10 23:04:45,477 - INFO - Запуск integrate с n_jobs=3, executor_type=thread
+2024-12-10 23:04:45,976 - INFO - THREAD | n_jobs=3: результат=1.0000000785398058, время=0.50 сек
+2024-12-10 23:04:45,976 - INFO - Запуск integrate с n_jobs=4, executor_type=thread
+2024-12-10 23:04:46,490 - INFO - THREAD | n_jobs=4: результат=1.000000078539799, время=0.51 сек
+2024-12-10 23:04:46,491 - INFO - Запуск integrate с n_jobs=5, executor_type=thread
+2024-12-10 23:04:46,994 - INFO - THREAD | n_jobs=5: результат=1.000000078539829, время=0.50 сек
+2024-12-10 23:04:46,994 - INFO - Запуск integrate с n_jobs=6, executor_type=thread
+2024-12-10 23:04:47,506 - INFO - THREAD | n_jobs=6: результат=1.0000000785398386, время=0.51 сек
+2024-12-10 23:04:47,507 - INFO - Запуск integrate с n_jobs=7, executor_type=thread
+2024-12-10 23:04:48,010 - INFO - THREAD | n_jobs=7: результат=1.0000000785398586, время=0.50 сек
+2024-12-10 23:04:48,010 - INFO - Запуск integrate с n_jobs=8, executor_type=thread
+2024-12-10 23:04:48,522 - INFO - THREAD | n_jobs=8: результат=1.0000000785398042, время=0.51 сек
+2024-12-10 23:04:48,522 - INFO - Запуск integrate с n_jobs=9, executor_type=thread
+2024-12-10 23:04:49,035 - INFO - THREAD | n_jobs=9: результат=1.0000000785398133, время=0.51 сек
+2024-12-10 23:04:49,035 - INFO - Запуск integrate с n_jobs=10, executor_type=thread
+2024-12-10 23:04:49,549 - INFO - THREAD | n_jobs=10: результат=1.0000000785398198, время=0.51 сек
+2024-12-10 23:04:49,550 - INFO - Запуск integrate с n_jobs=11, executor_type=thread
+2024-12-10 23:04:50,055 - INFO - THREAD | n_jobs=11: результат=1.0000000785398793, время=0.51 сек
+2024-12-10 23:04:50,055 - INFO - Запуск integrate с n_jobs=12, executor_type=thread
+2024-12-10 23:04:50,561 - INFO - THREAD | n_jobs=12: результат=1.0000000785398522, время=0.51 сек
+2024-12-10 23:04:50,561 - INFO - Запуск integrate с n_jobs=13, executor_type=thread
+2024-12-10 23:04:51,067 - INFO - THREAD | n_jobs=13: результат=1.0000000785398886, время=0.51 сек
+2024-12-10 23:04:51,067 - INFO - Запуск integrate с n_jobs=14, executor_type=thread
+2024-12-10 23:04:51,585 - INFO - THREAD | n_jobs=14: результат=1.0000000785398893, время=0.52 сек
+2024-12-10 23:04:51,585 - INFO - Запуск integrate с n_jobs=15, executor_type=thread
+2024-12-10 23:04:52,092 - INFO - THREAD | n_jobs=15: результат=1.0000000785398828, время=0.51 сек
+2024-12-10 23:04:52,092 - INFO - Запуск integrate с n_jobs=16, executor_type=thread
+2024-12-10 23:04:52,602 - INFO - THREAD | n_jobs=16: результат=1.00000007853981, время=0.51 сек
+2024-12-10 23:04:52,602 - INFO - Запуск integrate с n_jobs=17, executor_type=thread
+2024-12-10 23:04:53,114 - INFO - THREAD | n_jobs=17: результат=1.0000000785398406, время=0.51 сек
+2024-12-10 23:04:53,114 - INFO - Запуск integrate с n_jobs=18, executor_type=thread
+2024-12-10 23:04:53,625 - INFO - THREAD | n_jobs=18: результат=1.0000000785398868, время=0.51 сек
+2024-12-10 23:04:53,625 - INFO - Запуск integrate с n_jobs=19, executor_type=thread
+2024-12-10 23:04:54,129 - INFO - THREAD | n_jobs=19: результат=1.0000000785399374, время=0.50 сек
+2024-12-10 23:04:54,130 - INFO - Запуск integrate с n_jobs=20, executor_type=thread
+2024-12-10 23:04:54,636 - INFO - THREAD | n_jobs=20: результат=1.0000000785398178, время=0.51 сек
+2024-12-10 23:04:54,636 - INFO - Запуск integrate с n_jobs=21, executor_type=thread
+2024-12-10 23:04:55,145 - INFO - THREAD | n_jobs=21: результат=1.0000000785398933, время=0.51 сек
+2024-12-10 23:04:55,146 - INFO - Запуск integrate с n_jobs=22, executor_type=thread
+2024-12-10 23:04:55,653 - INFO - THREAD | n_jobs=22: результат=1.0000000785398897, время=0.51 сек
+2024-12-10 23:04:55,653 - INFO - Запуск integrate с n_jobs=23, executor_type=thread
+2024-12-10 23:04:56,160 - INFO - THREAD | n_jobs=23: результат=1.00000007853992, время=0.51 сек
+2024-12-10 23:04:56,160 - INFO - Запуск integrate с n_jobs=24, executor_type=thread
+2024-12-10 23:04:56,669 - INFO - THREAD | n_jobs=24: результат=1.0000000785399346, время=0.51 сек
+2024-12-10 23:04:56,669 - INFO - Запуск integrate с n_jobs=1, executor_type=process
+2024-12-10 23:04:57,174 - INFO - PROCESS | n_jobs=1: результат=1.0000000785399288, время=0.50 сек
+2024-12-10 23:04:57,174 - INFO - Запуск integrate с n_jobs=2, executor_type=process
+2024-12-10 23:04:57,430 - INFO - PROCESS | n_jobs=2: результат=1.0000000785398064, время=0.26 сек
+2024-12-10 23:04:57,430 - INFO - Запуск integrate с n_jobs=3, executor_type=process
+2024-12-10 23:04:57,610 - INFO - PROCESS | n_jobs=3: результат=1.0000000785398058, время=0.18 сек
+2024-12-10 23:04:57,610 - INFO - Запуск integrate с n_jobs=4, executor_type=process
+2024-12-10 23:04:57,741 - INFO - PROCESS | n_jobs=4: результат=1.000000078539799, время=0.13 сек
+2024-12-10 23:04:57,741 - INFO - Запуск integrate с n_jobs=5, executor_type=process
+2024-12-10 23:04:57,851 - INFO - PROCESS | n_jobs=5: результат=1.000000078539829, время=0.11 сек
+2024-12-10 23:04:57,851 - INFO - Запуск integrate с n_jobs=6, executor_type=process
+2024-12-10 23:04:57,942 - INFO - PROCESS | n_jobs=6: результат=1.0000000785398386, время=0.09 сек
+2024-12-10 23:04:57,942 - INFO - Запуск integrate с n_jobs=7, executor_type=process
+2024-12-10 23:04:58,023 - INFO - PROCESS | n_jobs=7: результат=1.0000000785398586, время=0.08 сек
+2024-12-10 23:04:58,023 - INFO - Запуск integrate с n_jobs=8, executor_type=process
+2024-12-10 23:04:58,095 - INFO - PROCESS | n_jobs=8: результат=1.0000000785398042, время=0.07 сек
+2024-12-10 23:04:58,095 - INFO - Запуск integrate с n_jobs=9, executor_type=process
+2024-12-10 23:04:58,160 - INFO - PROCESS | n_jobs=9: результат=1.0000000785398133, время=0.07 сек
+2024-12-10 23:04:58,161 - INFO - Запуск integrate с n_jobs=10, executor_type=process
+2024-12-10 23:04:58,221 - INFO - PROCESS | n_jobs=10: результат=1.0000000785398198, время=0.06 сек
+2024-12-10 23:04:58,221 - INFO - Запуск integrate с n_jobs=11, executor_type=process
+2024-12-10 23:04:58,276 - INFO - PROCESS | n_jobs=11: результат=1.0000000785398793, время=0.06 сек
+2024-12-10 23:04:58,277 - INFO - Запуск integrate с n_jobs=12, executor_type=process
+2024-12-10 23:04:58,331 - INFO - PROCESS | n_jobs=12: результат=1.0000000785398522, время=0.05 сек
+2024-12-10 23:04:58,331 - INFO - Запуск integrate с n_jobs=13, executor_type=process
+2024-12-10 23:04:58,400 - INFO - PROCESS | n_jobs=13: результат=1.0000000785398886, время=0.07 сек
+2024-12-10 23:04:58,401 - INFO - Запуск integrate с n_jobs=14, executor_type=process
+2024-12-10 23:04:58,464 - INFO - PROCESS | n_jobs=14: результат=1.0000000785398893, время=0.06 сек
+2024-12-10 23:04:58,464 - INFO - Запуск integrate с n_jobs=15, executor_type=process
+2024-12-10 23:04:58,532 - INFO - PROCESS | n_jobs=15: результат=1.0000000785398828, время=0.07 сек
+2024-12-10 23:04:58,532 - INFO - Запуск integrate с n_jobs=16, executor_type=process
+2024-12-10 23:04:58,595 - INFO - PROCESS | n_jobs=16: результат=1.00000007853981, время=0.06 сек
+2024-12-10 23:04:58,595 - INFO - Запуск integrate с n_jobs=17, executor_type=process
+2024-12-10 23:04:58,666 - INFO - PROCESS | n_jobs=17: результат=1.0000000785398406, время=0.07 сек
+2024-12-10 23:04:58,666 - INFO - Запуск integrate с n_jobs=18, executor_type=process
+2024-12-10 23:04:58,734 - INFO - PROCESS | n_jobs=18: результат=1.0000000785398868, время=0.07 сек
+2024-12-10 23:04:58,735 - INFO - Запуск integrate с n_jobs=19, executor_type=process
+2024-12-10 23:04:58,802 - INFO - PROCESS | n_jobs=19: результат=1.0000000785399374, время=0.07 сек
+2024-12-10 23:04:58,802 - INFO - Запуск integrate с n_jobs=20, executor_type=process
+2024-12-10 23:04:58,866 - INFO - PROCESS | n_jobs=20: результат=1.0000000785398178, время=0.06 сек
+2024-12-10 23:04:58,866 - INFO - Запуск integrate с n_jobs=21, executor_type=process
+2024-12-10 23:04:58,928 - INFO - PROCESS | n_jobs=21: результат=1.0000000785398933, время=0.06 сек
+2024-12-10 23:04:58,928 - INFO - Запуск integrate с n_jobs=22, executor_type=process
+2024-12-10 23:04:58,996 - INFO - PROCESS | n_jobs=22: результат=1.0000000785398897, время=0.07 сек
+2024-12-10 23:04:58,996 - INFO - Запуск integrate с n_jobs=23, executor_type=process
+2024-12-10 23:04:59,062 - INFO - PROCESS | n_jobs=23: результат=1.00000007853992, время=0.07 сек
+2024-12-10 23:04:59,062 - INFO - Запуск integrate с n_jobs=24, executor_type=process
+2024-12-10 23:04:59,132 - INFO - PROCESS | n_jobs=24: результат=1.0000000785399346, время=0.07 сек
